@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Engligh/WebGl ...
+- 📫 How to reach me: tzyitooo@gmail.com
+- 😄 I like cooking, but I don't like washing dishes🤡
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tzyito.Tzyito" alt="visitor badge"/>  
+</p>
