@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Engligh/WebGl ...
-- 📫 How to reach me: 📮tzyitooo@gmail.com 🐦[Twitter](https://twitter.com/tzyitoo)
+- 📫 How to reach me: 📮tzyitooo@gmail.com
 - 😄 I like cooking, but I don't like washing dishes🤡
 
 <p  align="center">
